@@ -3,6 +3,7 @@
 <div align="center">
   <h1>Hello, My World.</h1>
   
+   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pmh-only&theme=nord&layout=compact)
 </div>
 
