@@ -19,6 +19,9 @@
    
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wHoIsDReAmer&theme=nord&layout=compact)
   
+  </br>
+  <h3> My Discord Status </h3>
+  
   ![](https://discord-readme-badge.vercel.app/api?id=874489814618103848)
-
+  
 </div>
