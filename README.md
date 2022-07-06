@@ -1,7 +1,7 @@
 ### Hi, there 👋
 
 <div align="center">
-  <h1>Hello, My World.</h1>
+  <h2>Hello, My World.</h2>
   
    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=C%2B%2B&logoColor=white"></img>
    
