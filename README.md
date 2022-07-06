@@ -2,7 +2,6 @@
 
 <div aligin="center">
   <h1>Hello, My World.</h1>
-  <img src="https://img.shields.io/badge/HI?style=flat-square&logo=python&logoColor=white"/></a>&nbsp 
 </div>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pmh-only&theme=nord&layout=compact)
