@@ -1,7 +1,9 @@
-<h1>Hi, there 👋</h1>
-<h1>It's wHoIsDReAmer</h1>
+### Hi, there 👋
+### It's wHoIsDReAmer
 
 <div align="left">
+    <p>My languages</p>
+    
    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=C%2B%2B&logoColor=white"></img>
    
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wHoIsDReAmer&theme=nord&layout=compact)
