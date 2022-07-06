@@ -18,4 +18,7 @@
    ![](https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=React&logoColor=white")
    
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wHoIsDReAmer&theme=nord&layout=compact)
+  
+  ![](https://discord-readme-badge.vercel.app/api?id=874489814618103848)
+
 </div>
