@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div>
+<div aligin="center">
   <h1>Hello, My World.</h1>
   <img src="https://img.shields.io/badge/HI?style=flat-square&logo=python&logoColor=white"/></a>&nbsp 
 </div>
