@@ -1,5 +1,5 @@
-Hi, there 👋
-It's wHoIsDReAmer
+<h1>Hi, there 👋</h1>
+<h1>It's wHoIsDReAmer</h1>
 
 <div align="left">
    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=C%2B%2B&logoColor=white"></img>
