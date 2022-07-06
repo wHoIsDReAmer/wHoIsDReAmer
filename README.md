@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi, there 👋
 
-<div aligin="center">
+<div align="center">
   <h1>Hello, My World.</h1>
 </div>
 
