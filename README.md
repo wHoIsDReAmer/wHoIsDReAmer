@@ -10,6 +10,7 @@
     
    <h2> Using languages. </h2>
    
+   ![](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white)
    ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
    ![](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
    ![](https://img.shields.io/badge/Rust-DF0067?style=for-the-badge&logo=Rust&logoColor=white")
