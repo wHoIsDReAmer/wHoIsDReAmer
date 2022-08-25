@@ -2,7 +2,7 @@
 
 <div align="left">
    <h2>Who am I?</h2>
-   <h5> Fullstack Developer, </h5>
+   <h5> Fullstack, Windows App, Android App Developer</h5>
    <p>😗 I'm just students who love to write code and to dev.</p>
    <p> and I am focusing Rust now. </p>
    </br>
