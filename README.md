@@ -1,29 +1,38 @@
-# 👋 Hello, WORLD! , I'm [wHoIsDReAmer](https://github.com/wHoIsDReAmer)!
+# 👋 Hello, I'm Devlcw
 
-<div align="center">
+Curious of Hacking or Security and Developer, DevOps (will)
+so, it's more information of me
+```rust
 
-   ## 🚀 Who am I?
-   ### 🌱 Aspiring DevOps Developer 
-   > 😗 Just a student diving deep into the world of technology!
-   
-   ---
-   
-   ## 🔧 Technologies & Tools
-   
-   ### 🥇 Most Used
-   ![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=Java)
-   ![Rust](https://img.shields.io/badge/-Rust-orange?style=flat-square&logo=Rust)
-   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
+#[derive(Debug)]
+struct Me<'a> {
+    birth: String,
+    name: String,
+    tech: Vec<&'a str>,
+    favorite_lang: Vec<&'a str>,
+}
 
-   ### 🥈 Regularly Used
-   ![C#](https://img.shields.io/badge/-C%23-green?style=flat-square&logo=c-sharp)
-   ![C++](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=c%2B%2B)
+impl<'a> Default for Me<'a> {
+    fn default() -> Self {
+        Me {
+            birth: "2006-04-03".to_string(),
+            name: "LCW".to_string(),
+            tech: vec![
+                "Bun.js (not main)",
+                "Rust",
+                "Go (studying.. 60%)",
+            ],
+            favorite_lang: vec![
+                "Rust", "Go", "Javascript", "Typescript", "Java",
+            ],
+        }
+    }
+}
 
-   ### 📘 Currently Learning
-   ![Go](https://img.shields.io/badge/-Go-lightgrey?style=flat-square&logo=go)
-   
-   ---
-   
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wHoIsDReAmer&theme=nord&layout=compact" alt="wHoIsDReAmer's GitHub Stats" />
-</div>
+fn main() {
+    // "I want to study security or hacking more deeply
+    // and love low-level languages or system engineering."
+    println!("Btw, it's me! {:?}", Me::default());
+}
 
+```
