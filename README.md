@@ -18,12 +18,14 @@ impl<'a> Default for Me<'a> {
             birth: "2006-04-03".to_string(),
             name: "LCW".to_string(),
             tech: vec![
-                "Bun.js (not main)",
-                "Rust",
-                "Go (studying.. 60%)",
+                "Node.js",
+                "Bun (not main)",
+                "Rust (still studying)",
+                "Go",
+                "C++",
             ],
             favorite_lang: vec![
-                "Rust", "Go", "Javascript", "Typescript", "Java",
+                "C++", "Rust", "Go", "Javascript", "Typescript", "Java",
             ],
         }
     }
