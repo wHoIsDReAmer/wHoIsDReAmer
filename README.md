@@ -6,7 +6,6 @@ so, it's more information of me
 
 #[derive(Debug)]
 struct Me<'a> {
-    birth: String,
     name: String,
     tech: Vec<&'a str>,
     favorite_lang: Vec<&'a str>,
