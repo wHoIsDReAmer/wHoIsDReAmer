@@ -15,7 +15,6 @@ struct Me<'a> {
 impl<'a> Default for Me<'a> {
     fn default() -> Self {
         Me {
-            birth: "2006-04-03".to_string(),
             name: "LCW".to_string(),
             tech: vec![
                 "Node.js",
