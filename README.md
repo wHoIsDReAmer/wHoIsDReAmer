@@ -16,14 +16,14 @@ impl<'a> Default for Me<'a> {
         Me {
             name: "LCW".to_string(),
             tech: vec![
-                "Node.js",
-                "Bun (not main)",
-                "Rust (still studying)",
+                "Javascript",
+                "Typescript",
+                "Rust",
                 "Go",
                 "C++",
             ],
             favorite_lang: vec![
-                "C++", "Rust", "Go", "Javascript", "Typescript", "Java",
+                "C++", "Rust", "Go", "Javascript", "Typescript"
             ],
         }
     }
