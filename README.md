@@ -1,38 +1,35 @@
-# 👋 Hello, I'm DevLCW
+# 👋 Hello, I'm Chanwook Lee
 
-Curious about Hacking or Security and Developer, DevOps
-so, it's more information of me
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=wHoIsDReAmer&include_all_commits=true&theme=discord_old_blurple)](https://github-stats-extended.vercel.app/api?username=wHoIsDReAmer&include_all_commits=true&theme=discord_old_blurple)
+
+> Curious about `Hacking`, `Security`, `Develop`, `Operation`, `Producting`
+
+Here's structure to describe me
 ```rust
 
-#[derive(Debug)]
 struct Me<'a> {
-    name: String,
-    tech: Vec<&'a str>,
-    favorite_lang: Vec<&'a str>,
+    name: &'a str,
+    primary_lang: Vec<&'a str>,
+    prefer_lang: Vec<&'a str>,
 }
 
 impl<'a> Default for Me<'a> {
     fn default() -> Self {
         Me {
-            name: "LCW".to_string(),
-            tech: vec![
-                "Javascript",
-                "Typescript",
+            name: "Chanwook Lee",
+            primary_lang: vec![
                 "Rust",
                 "Go",
-                "C++",
+                "Java",
+                "Javascript",
+                "Typescript",
             ],
-            favorite_lang: vec![
-                "C++", "Rust", "Go", "Javascript", "Typescript"
+            prefer_lang: vec![
+                "Rust", "Go"
             ],
         }
     }
 }
-
-fn main() {
-    // "I want to study security or hacking more deeply
-    // and love low-level languages or system engineering."
-    println!("Btw, it's me! {:?}", Me::default());
-}
-
 ```
+
+Additionally, I'm operating my own tech blog! You can see my posts on [here!](https://blog.devcw.xyz)
